@@ -10,7 +10,6 @@ Release Notes - HBase - Version 1.4.10 5/6/2019
     * [HBASE-21734] - Some optimization in FilterListWithOR
     * [HBASE-21748] - Port HBASE-21738 (Remove all the CLSM#size operation in our memstore because it's an quite time consuming.) to branch-1
     * [HBASE-22152] - Create a jenkins file for yetus to processing GitHub PR
-    * [HBASE-22215] - Backport MultiRowRangeFilter does not work with reverse scans
 
 ** Bug
     * [HBASE-20911] - correct Swtich/case indentation in formatter template for eclipse
